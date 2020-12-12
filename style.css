@@ -1,0 +1,25 @@
+#app {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+button {
+	margin: 10px;
+	width: 40px;
+	height: 40px;
+	border-radius: 25px;
+	border:none;
+	background-color: black;
+	color:white;
+}
+input {
+	text-align: center;
+	height: 20px;
+	width: 100px;
+}
+
+.is_limit{
+	background-color: #d65740;
+}
